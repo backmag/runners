@@ -22,7 +22,7 @@ async def get_sample_data():
     """
     return {
             "chart_data": [
-                {"name": "Jan", "value": 400},
+                {"name": "Jan", "value": 800},
                 {"name": "Feb", "value": 300},
                 {"name": "Mar", "value": 600},
                 {"name": "Apr", "value": 800},
